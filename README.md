@@ -6,20 +6,26 @@ Create physical data conditions and metagenomic visualizations of data from two 
 
 ## Scaffold used for peptide mapping of samples from Pabst and Outpace 
 all_3_tricho_metaG.faa
+
 *this file is too large to push to GitHub, I am looking for other alternatives*
 
 ## Dataset of samples from Pabst and Outpace cruises and metadata file
 26_samples_reload_labels.csv
+
 26_samples_reload_labels_metadata.csv
 
 ## Protein annotations to go with sample dataset
 all_annots_analysis_epi.csv
+
 all_annots_analysis_t.csv
 
 ## Datasets of sample locations, CTD, and nutrient analyses for sampling cruises
 PABST-AE1409-CTD-P.csv
+
 Fe_Dissolved_TMR_OUTPACE.csv
+
 Inorganic_Nitrogen_nanomolar_OUTPACE.csv
+
 Inorganic_Phosphorus_nanomolar_OUTPACE.csv
 
 [Hoe Dylan 7 CTD](https://hahana.soest.hawaii.edu/FTP/cmore/water/hoedylan/hoedylan7.gof)
